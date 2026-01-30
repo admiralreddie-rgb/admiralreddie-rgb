@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project named OpenTrace<br>🌱 I’m currently learning Coding<br>⚡ Fun fact i work in IT but code for fun<br> Love gaming different games
+🔭 I’m currently working on a project named NetSentry2.0<br>🌱 I’m currently learning Coding<br>⚡ Fun fact i work in IT but code for fun<br> Love gaming different games
 
 
 ## 🌐 Socials:
